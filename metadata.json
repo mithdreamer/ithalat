@@ -1,0 +1,6 @@
+{
+  "name": "DIR Manager",
+  "description": "Dahilde işleme rejimi kapsamında ithalat ve ihracat stok takip yazılımı, özel şartlara göre FIFO stok yönetimi sağlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
